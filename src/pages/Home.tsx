@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 
 function Home() {
   return (
-    <div className="space-y-16 py-8">
+    <div className="space-y-16  ">
       {/* Hero Section */}
       <section className="relative bg-gradient-to-r from-blue-600 to-indigo-700 py-20">
         <div className="container mx-auto px-4 text-center text-white">
